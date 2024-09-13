@@ -28,5 +28,5 @@ Os pacotes necessários para rodar o projeto estão listados no arquivo `require
 
 ```bash
 pip install -r requirements.txt
-
+```
 obs: Necessária a alteração do regex dependendo do aparelho que exportar as mensagens.
